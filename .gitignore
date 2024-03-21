@@ -9,6 +9,10 @@
 # testing
 /coverage
 
+#local files
+.env
+
+
 # next.js
 /.next/
 /out/
